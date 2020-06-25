@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.000webhost.com	TRUE	/	FALSE	1999999999	__cfduid	dc4cbbb2bbc3951fdeb263ebbd4af6aaf1593040831
+cdn.000webhost.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
